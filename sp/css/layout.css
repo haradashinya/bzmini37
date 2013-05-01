@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* ---------------------------------------------------------------
+	BASIC
+--------------------------------------------------------------- */
+
+body {
+	margin: 0;
+  padding: 0;
+	font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
+  font-size: 14px;
+}
+
+
+article {
+  width: 940px;
+  margin: 0 auto;
+  padding: 10px;
+  background: #808080;
+  color: black;
+}
+
