@@ -82,7 +82,7 @@ p.more {
   text-align: right;
 }
 ul.news {
-  margin: 0px;
+  margin: 0 10px 54px;
   padding: 10px;
   border-top: 3px solid #41250f;
   list-style-type: none;
