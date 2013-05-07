@@ -49,7 +49,41 @@ header aside nav ul li {
 	width:73px;
 	text-align:center;
 	line-height:44px;
+  font-size: 12px;
 }
 header aside nav ul li.last {
 	border-right:none;
 }
+
+div #slider {
+  height: 100px;
+}
+section h1 {
+  color: #41250f;
+  width: 100px;
+  padding: 10px;
+  margin: 0;
+  font-size: 14px;
+  float: left;
+
+}
+p.more {
+  color: #a3844b;
+  width: 100px;
+  padding: 10px;
+  margin: 0;
+  font-size: 12px;
+  float: right;
+  text-align: right;
+}
+ul.news {
+  margin: 0px;
+  border-top: 3px solid #41250f;
+  list-style-type: none;
+}
+ul.news li {
+  border-bottom: 
+}
+
+
+

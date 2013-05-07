@@ -418,5 +418,8 @@ table {
 .clearfix{
 	display:block;
 }
+.clear {
+  clear: both;
+}
 /* End Hack */ 
 
