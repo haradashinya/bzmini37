@@ -134,11 +134,24 @@ ul.news li {
 
 .thumb3 {
   background: url("../img/news03.jpg");
-  background-position: top-left;
+  background-position: 100% 0%;
   background-size: 100%;
   float: left;
   margin-right: 10px;
 }
+
+div#slider img {
+  width: 100%;
+}
+.arrow {
+  background-image: url("../img/arrow.png");
+  background-position: 100% 50%;
+  background-size: 44px 44px;
+  background-repeat: no-repeat;
+}
+
+
+
 
 
 
