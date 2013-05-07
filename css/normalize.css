@@ -420,3 +420,6 @@ table {
 }
 /* End Hack */ 
 
+.clear {
+	clear:both;
+}
