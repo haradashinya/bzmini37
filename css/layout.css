@@ -109,10 +109,37 @@ ul.news li {
   color: #b98270;
 }
 
-#thumbnail {
-  width: 44px;
+
+.img-box {
   height: 44px;
-  background: url("");
-  background-position: 50% 0%;
+  width: 44px;
 }
+
+.thumb1 {
+  background: url("../img/news01.jpg");
+  background-position: top-left;
+  background-size: 100%;
+  float: left;
+  margin-right: 10px;
+}
+
+.thumb2 {
+  background: url("../img/news02.jpg");
+  background-position: top-left;
+  background-size: 100%;
+  float: left;
+  margin-right: 10px;
+}
+
+
+.thumb3 {
+  background: url("../img/news03.jpg");
+  background-position: top-left;
+  background-size: 100%;
+  float: left;
+  margin-right: 10px;
+}
+
+
+
 
